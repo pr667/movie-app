@@ -8,6 +8,9 @@ Discover movies, explore trending titles, and quickly find something worth watch
 
 The application integrates the **TMDB API** to provide movie data and combines it with a responsive React interface designed for fast, intuitive browsing.
 
+## LIVE DEMO:
+Check out the Live Demo: movie-o4gz1dkur-preethamaditya6.vercel.app
+
 ## 🚀 Features
 
 * **🎥 Movie Discovery** — Browse a large collection of movies with rich poster and metadata.
